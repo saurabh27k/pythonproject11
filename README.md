@@ -1,5 +1,5 @@
 # pythonproject11
-thiswebapplication 
+this webapplication 
 author saurabh khapale <br>
 using python and django also used this project <br>
 using python topics in this project.
