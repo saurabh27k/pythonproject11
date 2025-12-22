@@ -12,7 +12,7 @@ Built-in functions <br>
 User-defined functions <br>
 Parameters & return values<br>
 Default & keyword arguments<br>
-Lambda functions
-
+Lambda functions<br>
+python strature
 
 
