@@ -13,6 +13,6 @@ User-defined functions <br>
 Parameters & return values<br>
 Default & keyword arguments<br>
 Lambda functions<br>
-python strature
+python strature <br>
 
 
